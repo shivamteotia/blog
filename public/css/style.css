@@ -1,0 +1,67 @@
+.body{
+    font-family: serif;
+}
+.header{
+    margin-top:20px;
+}
+.aboutMe{
+    height:40px;
+    background-color: black;
+    color:white;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+}
+.socialMe{
+    height:40px;
+    background-color: black;
+    color:white;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+}
+.myProfile{
+   
+}
+.myPic{
+    border-radius: 50%;
+    margin-left: 50%;
+    margin-top: 10%;
+    transform: translate(-50%,-10%);
+}
+.horizontal{
+    border-right: .55px solid #9E9E9E;
+}
+.myBio{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+.socialIcon{
+    margin-left: 50%;
+    margin-top: 8%;
+    transform: translate(-50%);
+}
+.comment{
+    margin-left: 3%;
+    color:orange;
+}
+.postPic{
+    margin-left:7%;
+    
+    margin-top: 5%;
+}
+.postText{
+    margin-top: 4%;
+}
+.readMore{
+    float: right;
+    border: 2px solid #ebebeb;
+    color:#b49543;
+    padding: 10px 15px 9px;
+    display: inline-block;
+    font-size: 11px;
+    font-family: "Lato",sans-serif;
+    font-weight: bold;
+    z-index: 3;
+}
